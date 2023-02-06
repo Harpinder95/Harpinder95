@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harpinder Singh
-- 👀 I’m interested in Data Analytics & Data Science
-- 🌱 I’m currently learning R and Analysis
+- 👀 I’m in love with with Data Science
+- 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 You can send me email at 321harpinder@gmail.com.
 
